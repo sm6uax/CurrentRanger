@@ -48,7 +48,7 @@ uint32_t lastInteraction=0;
 #define ADC_CALIBRATE_EN
 //#define ADC_CALIBRATE_FORCED       //uncomment to set manual offset/gain values below
 #define ADC_CALIBRATE_FORCED_OFFSET 0
-#define ADC_CALIBRATE_FORCED_GAIN   2048
+#define ADC_CALIBRATE_FORCED_GAIN   2058
 //***********************************************************************************************************
 #define BUZZER     1           // BUZZER pin
 #define NOTE_C5  523
